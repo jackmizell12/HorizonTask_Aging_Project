@@ -32,7 +32,7 @@ While humans should use directed and random exploration in theory, a number of p
 
 ## File List
 
--   AgingBehVarPattern.R: The analysis script, not this analysis uses the here package and for these analyses you need to keep the data files in the same folder as this file.
+-   AgingBehVarPattern.R: The analysis script, note this analysis uses the here package and for these analyses you need to keep the data files in the same folder as this file.
 
 -   AgingInconsistent.csv: Overall data structure for the main analyses
 
